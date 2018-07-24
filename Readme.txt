@@ -1,16 +1,16 @@
 https://www.jianshu.com/writer#/notebooks/26933576/notes/30808848/preview
 
-ºóÌ¨
+åŽå°
 connect.php
-	²ÉÓÃmysqliÁ¬½ÓÊý¾Ý¿â
+	é‡‡ç”¨mysqliè¿žæŽ¥æ•°æ®åº“
 doAction.php  
-	Ê×ÏÈ¶Ô±íµ¥½øÐÐÑéÖ¤
+	é¦–å…ˆå¯¹è¡¨å•è¿›è¡ŒéªŒè¯
 	comment.class.php
-		validate·½·¨ÖÐÊ¹ÓÃfilter_input¶Ô½ÓÊÕµÄ±íµ¥Êý¾Ý½øÐÐÑéÖ¤
-		ÑéÖ¤±íµ¥ÖÐÊý¾Ý³É¹¦±£´æµ½²ÎÊýÖÐ£¬²¢·µ»Øtrue£»ÑéÖ¤Ê§°Ü£¬½«´íÎó			±£´æµ½²ÎÊýÖÐ£¬²¢·µ»Øfalse
-	¶Ô²åÈëÓï¾ä½øÐÐÔ¤´¦Àí£¬°ó¶¨²ÎÊý½øÐÐÌá½»µ½Êý¾Ý¿â£¬Ìá½»³É¹¦ºó½«Êý¾ÝÍ¨¹ý	
-	output·½·¨½øÐÐ°ü×°·µ»Ø¸øÇ°¶ËÏÔÊ¾
+		validateæ–¹æ³•ä¸­ä½¿ç”¨filter_inputå¯¹æŽ¥æ”¶çš„è¡¨å•æ•°æ®è¿›è¡ŒéªŒè¯
+		éªŒè¯è¡¨å•ä¸­æ•°æ®æˆåŠŸä¿å­˜åˆ°å‚æ•°ä¸­ï¼Œå¹¶è¿”å›žtrueï¼›éªŒè¯å¤±è´¥ï¼Œå°†é”™è¯¯ä¿å­˜åˆ°å‚æ•°ä¸­ï¼Œå¹¶è¿”å›žfalse
+	å¯¹æ’å…¥è¯­å¥è¿›è¡Œé¢„å¤„ç†ï¼Œç»‘å®šå‚æ•°è¿›è¡Œæäº¤åˆ°æ•°æ®åº“ï¼Œæäº¤æˆåŠŸåŽå°†æ•°æ®é€šè¿‡	
+	outputæ–¹æ³•è¿›è¡ŒåŒ…è£…è¿”å›žç»™å‰ç«¯æ˜¾ç¤º
 
-Ç°¶ËÒ³Ãæ
+å‰ç«¯é¡µé¢
 index.php
-	Ã¿´Î²éÑ¯Êý¾Ý¿â²é³öËùÓÐÆÀÂÛÊý¾Ý¡£ÔÚÏÔÊ¾µÄµØ·½£¬Í¨¹ýoutput·½·¨¶ÔÊý¾Ý°ü	×°ºóÏÔÊ¾¡£
+	æ¯æ¬¡æŸ¥è¯¢æ•°æ®åº“æŸ¥å‡ºæ‰€æœ‰è¯„è®ºæ•°æ®ã€‚åœ¨æ˜¾ç¤ºçš„åœ°æ–¹ï¼Œé€šè¿‡outputæ–¹æ³•å¯¹æ•°æ®åŒ…	è£…åŽæ˜¾ç¤ºã€‚
